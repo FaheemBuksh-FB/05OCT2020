@@ -1,0 +1,22 @@
+.navbar{
+    background-color: darkolivegreen;
+    height: 50px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+
+img{
+    height: 50px;
+    width: 50px;
+}
+
+.right{
+    text-align: right;
+    /* margin-bottom: 100px; */
+}
+
+.left{
+    vertical-align: middle;
+    background-color: darkorange;
+    margin-top: 30PX;
+}
